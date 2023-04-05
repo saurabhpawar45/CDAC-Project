@@ -1,0 +1,19 @@
+.customh {
+  height: 500px;
+}
+.loginback{
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.loginform{
+  background-color: transparent;
+
+  border: 5px solid white;
+
+ 
+}
+.description-box{
+  height: 100px;
+}
